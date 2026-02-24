@@ -187,22 +187,22 @@ export default function AboutPage() {
         {/* STATS BAR */}
         <section className="py-12 px-4 sm:px-6 lg:px-8 bg-[#d2a778]/10 border-y border-[#d2a778]/20">
           <div className="max-w-5xl mx-auto">
-            <div className="grid grid-cols-2 md:grid-cols-4 gap-8 text-center">
-              <div>
-                <p className="text-2xl sm:text-3xl font-bold text-[#d2a778]">500K+</p>
-                <p className="text-gray-600 text-sm mt-1">Active Players</p>
+            <div className="grid grid-cols-2 md:grid-cols-4 gap-8 text-center stats-grid-mobile max-[480px]:gap-3 max-[480px]:p-4">
+              <div className="max-[480px]:p-5">
+                <p className="text-2xl sm:text-3xl font-bold text-[#d2a778] stat-number max-[480px]:text-[28px]">500K+</p>
+                <p className="text-gray-600 text-sm mt-1 stat-label max-[480px]:text-[13px]">Active Players</p>
               </div>
-              <div>
-                <p className="text-2xl sm:text-3xl font-bold text-[#d2a778]">₹10L+</p>
-                <p className="text-gray-600 text-sm mt-1">Rewards Distributed</p>
+              <div className="max-[480px]:p-5">
+                <p className="text-2xl sm:text-3xl font-bold text-[#d2a778] stat-number max-[480px]:text-[28px]">₹10L+</p>
+                <p className="text-gray-600 text-sm mt-1 stat-label max-[480px]:text-[13px]">Rewards Distributed</p>
               </div>
-              <div>
-                <p className="text-2xl sm:text-3xl font-bold text-[#d2a778]">100+</p>
-                <p className="text-gray-600 text-sm mt-1">Games Available</p>
+              <div className="max-[480px]:p-5">
+                <p className="text-2xl sm:text-3xl font-bold text-[#d2a778] stat-number max-[480px]:text-[28px]">100+</p>
+                <p className="text-gray-600 text-sm mt-1 stat-label max-[480px]:text-[13px]">Games Available</p>
               </div>
-              <div>
-                <p className="text-2xl sm:text-3xl font-bold text-[#d2a778]"><span className="auto-year">2026</span></p>
-                <p className="text-gray-600 text-sm mt-1">Latest APK Version</p>
+              <div className="max-[480px]:p-5">
+                <p className="text-2xl sm:text-3xl font-bold text-[#d2a778] stat-number max-[480px]:text-[28px]"><span className="auto-year">2026</span></p>
+                <p className="text-gray-600 text-sm mt-1 stat-label max-[480px]:text-[13px]">Latest APK Version</p>
               </div>
             </div>
           </div>

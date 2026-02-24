@@ -103,8 +103,8 @@ export default function HowToRegisterPage() {
             <div>
               <h3 className="text-xl font-bold text-gray-900 mb-4">Step 4 — Fill in Your Details Correctly</h3>
               <p className="text-gray-600 mb-4">You will now see the Big Mumbai game register form. Fill in the following:</p>
-              <div className="overflow-x-auto">
-                <table className="w-full border border-gray-200 rounded-lg overflow-hidden">
+              <div className="overflow-x-auto rounded-lg">
+                <table className="w-full border border-gray-200 rounded-lg overflow-hidden min-w-0">
                   <thead>
                     <tr className="bg-gray-50">
                       <th className="text-left p-3 font-semibold">Field</th>
@@ -193,8 +193,8 @@ export default function HowToRegisterPage() {
 
           <h3 className="text-xl font-bold text-gray-900 mb-4">How the Big Mumbai Referral System Works</h3>
           <p className="text-gray-600 mb-4">The Big Mumbai promotion program operates across 6 referral levels — you earn from direct referrals and their networks up to 6 levels deep.</p>
-          <div className="overflow-x-auto mb-6">
-            <table className="w-full border border-gray-200 rounded-lg">
+          <div className="overflow-x-auto rounded-lg mb-6">
+            <table className="w-full border border-gray-200 rounded-lg min-w-0">
               <thead>
                 <tr className="bg-gray-50">
                   <th className="text-left p-3">Level</th>
@@ -275,30 +275,30 @@ export default function HowToRegisterPage() {
         {/* FAQ Section */}
         <section className="mb-12">
           <h2 className="text-2xl font-bold text-[#d2a778] mb-8">Frequently Asked Questions — Big Mumbai Registration</h2>
-          <div className="space-y-6">
-            <div className="border-b pb-6">
-              <h3 className="font-bold text-gray-900 mb-2">Q: How do I register on Big Mumbai app?</h3>
-              <p className="text-gray-600">A: Download the Big Mumbai APK from bigmumbaiapkdownload.com, open the app, tap Account → Register, fill in mobile number, password, and invitation code 54147218367, then tap Register. Done in under 3 minutes.</p>
+          <div className="space-y-0">
+            <div className="faq-mobile-item border-b pb-6">
+              <h3 className="font-bold text-gray-900 mb-2 max-[480px]:text-[15px] max-[480px]:font-semibold">Q: How do I register on Big Mumbai app?</h3>
+              <p className="text-gray-600 max-[480px]:text-[14px]">A: Download the Big Mumbai APK from bigmumbaiapkdownload.com, open the app, tap Account → Register, fill in mobile number, password, and invitation code 54147218367, then tap Register. Done in under 3 minutes.</p>
             </div>
-            <div className="border-b pb-6">
-              <h3 className="font-bold text-gray-900 mb-2">Q: What is the Big Mumbai invitation code for 2026?</h3>
-              <p className="text-gray-600">A: The current working Big Mumbai invitation code is 54147218367. Enter during registration to unlock gift bonus ₹10–₹100 plus Big Mumbai 500 welcome offer.</p>
+            <div className="faq-mobile-item border-b pb-6">
+              <h3 className="font-bold text-gray-900 mb-2 max-[480px]:text-[15px] max-[480px]:font-semibold">Q: What is the Big Mumbai invitation code for 2026?</h3>
+              <p className="text-gray-600 max-[480px]:text-[14px]">A: The current working Big Mumbai invitation code is 54147218367. Enter during registration to unlock gift bonus ₹10–₹100 plus Big Mumbai 500 welcome offer.</p>
             </div>
-            <div className="border-b pb-6">
-              <h3 className="font-bold text-gray-900 mb-2">Q: Is Big Mumbai registration free?</h3>
-              <p className="text-gray-600">A: Yes. Big Mumbai game register online is completely free. No deposit needed to create account or claim welcome bonus.</p>
+            <div className="faq-mobile-item border-b pb-6">
+              <h3 className="font-bold text-gray-900 mb-2 max-[480px]:text-[15px] max-[480px]:font-semibold">Q: Is Big Mumbai registration free?</h3>
+              <p className="text-gray-600 max-[480px]:text-[14px]">A: Yes. Big Mumbai game register online is completely free. No deposit needed to create account or claim welcome bonus.</p>
             </div>
-            <div className="border-b pb-6">
-              <h3 className="font-bold text-gray-900 mb-2">Q: Can I register on Big Mumbai without downloading the APK?</h3>
-              <p className="text-gray-600">A: Yes, via the official website on mobile browser. However, downloading the Big Mumbai login app gives the best experience.</p>
+            <div className="faq-mobile-item border-b pb-6">
+              <h3 className="font-bold text-gray-900 mb-2 max-[480px]:text-[15px] max-[480px]:font-semibold">Q: Can I register on Big Mumbai without downloading the APK?</h3>
+              <p className="text-gray-600 max-[480px]:text-[14px]">A: Yes, via the official website on mobile browser. However, downloading the Big Mumbai login app gives the best experience.</p>
             </div>
-            <div className="border-b pb-6">
-              <h3 className="font-bold text-gray-900 mb-2">Q: How long does Big Mumbai registration take?</h3>
-              <p className="text-gray-600">A: Under 3 minutes — mobile number, password, invitation code, and activation are all instant.</p>
+            <div className="faq-mobile-item border-b pb-6">
+              <h3 className="font-bold text-gray-900 mb-2 max-[480px]:text-[15px] max-[480px]:font-semibold">Q: How long does Big Mumbai registration take?</h3>
+              <p className="text-gray-600 max-[480px]:text-[14px]">A: Under 3 minutes — mobile number, password, invitation code, and activation are all instant.</p>
             </div>
-            <div>
-              <h3 className="font-bold text-gray-900 mb-2">Q: What is the minimum withdrawal amount on Big Mumbai?</h3>
-              <p className="text-gray-600">A: Minimum withdrawal is ₹110. Processing typically 1–2 hours.</p>
+            <div className="faq-mobile-item">
+              <h3 className="font-bold text-gray-900 mb-2 max-[480px]:text-[15px] max-[480px]:font-semibold">Q: What is the minimum withdrawal amount on Big Mumbai?</h3>
+              <p className="text-gray-600 max-[480px]:text-[14px]">A: Minimum withdrawal is ₹110. Processing typically 1–2 hours.</p>
             </div>
           </div>
         </section>

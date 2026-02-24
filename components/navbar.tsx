@@ -21,16 +21,16 @@ export function Navbar() {
   ];
 
   return (
-    <nav className="sticky top-0 z-50 backdrop-blur-md bg-white/95 border-b border-[#d2a778]/20">
+    <nav className="sticky top-0 z-50 bg-white border-b border-[#d2a778]/20 md:backdrop-blur-md md:bg-white/95 md:shadow-none shadow-[0_2px_8px_rgba(0,0,0,0.08)]">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-        <div className="flex justify-between items-center h-16 sm:h-20">
-          <Link href={`${BASE_URL}/`} className="flex-shrink-0">
+        <div className="flex justify-between items-center h-[60px] sm:h-20">
+          <Link href={`${BASE_URL}/`} className="flex-shrink-0 min-w-0 max-w-[35vw] md:max-w-none overflow-hidden">
             <Image
               src="/bigmumbailogo.png"
               alt="Big Mumbai"
               width={140}
               height={48}
-              className="h-10 sm:h-12 w-auto object-contain"
+              className="h-8 sm:h-12 w-auto max-w-full object-contain object-left"
               priority
             />
           </Link>
@@ -62,27 +62,27 @@ export function Navbar() {
           </div>
 
           {/* Mobile: Login & Register buttons + hamburger */}
-          <div className="flex md:hidden items-center gap-2">
-            <Link href={REGISTER_LINK}>
+          <div className="flex md:hidden items-center gap-1.5 flex-shrink-0">
+            <Link href={REGISTER_LINK} className="shrink-0">
               <Button
                 variant="outline"
                 size="sm"
-                className="border-[#d2a778] text-[#d2a778] hover:bg-[#d2a778] hover:text-black text-xs px-3 py-1.5"
+                className="border-[#d2a778] text-[#d2a778] hover:bg-[#d2a778] hover:text-black text-xs px-2 py-1.5 whitespace-nowrap min-h-[36px]"
               >
                 Login
               </Button>
             </Link>
-            <Link href={REGISTER_LINK}>
+            <Link href={REGISTER_LINK} className="shrink-0">
               <Button
                 size="sm"
-                className="bg-[#d2a778] text-black hover:bg-[#c49768] text-xs px-3 py-1.5 font-semibold"
+                className="bg-[#d2a778] text-black hover:bg-[#c49768] text-xs px-2 py-1.5 font-semibold whitespace-nowrap min-h-[36px]"
               >
                 Register
               </Button>
             </Link>
             <button
               type="button"
-              className="p-2 -mr-2 text-gray-600 hover:text-[#d2a778] transition-colors"
+              className="min-w-[44px] min-h-[44px] -mr-1 flex items-center justify-center text-gray-600 hover:text-[#d2a778] transition-colors"
               onClick={() => setMobileMenuOpen(!mobileMenuOpen)}
               aria-label="Toggle menu"
             >

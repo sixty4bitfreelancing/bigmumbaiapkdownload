@@ -297,7 +297,7 @@ export default function BigMumbaiGameLinkPage() {
           <h2 className="text-2xl font-bold text-[#d2a778] mb-6">Big Mumbai Game Link Not Working? — Complete Troubleshooting Guide</h2>
           <p className="text-gray-600 mb-8">If the Big Mumbai game link isn&apos;t loading or working correctly, don&apos;t panic. Here are the most common causes and their solutions:</p>
 
-          <div className="space-y-6">
+          <div className="space-y-0">
             <div className="border border-gray-200 rounded-lg p-4">
               <h3 className="font-bold text-gray-900 mb-2">⚠️ Issue 1 — Wrong or Outdated URL</h3>
               <p className="text-gray-600 text-sm mb-2"><strong>Symptoms:</strong> Page not found, error 404, redirected to unknown site</p>
@@ -386,34 +386,34 @@ export default function BigMumbaiGameLinkPage() {
         {/* FAQ Section */}
         <section className="mb-12">
           <h2 className="text-2xl font-bold text-[#d2a778] mb-8">Frequently Asked Questions — Big Mumbai Game Link</h2>
-          <div className="space-y-6">
-            <div className="border-b pb-6">
-              <h3 className="font-bold text-gray-900 mb-2">Q: What is the official Big Mumbai game link?</h3>
-              <p className="text-gray-600">A: The official Big Mumbai game link is bigmumbaiwinn.com. Always verify the HTTPS padlock in your browser before logging in or registering.</p>
+          <div className="space-y-0">
+            <div className="faq-mobile-item border-b pb-6">
+              <h3 className="font-bold text-gray-900 mb-2 max-[480px]:text-[15px] max-[480px]:font-semibold">Q: What is the official Big Mumbai game link?</h3>
+              <p className="text-gray-600 max-[480px]:text-[14px]">A: The official Big Mumbai game link is bigmumbaiwinn.com. Always verify the HTTPS padlock in your browser before logging in or registering.</p>
             </div>
-            <div className="border-b pb-6">
-              <h3 className="font-bold text-gray-900 mb-2">Q: Can I play Big Mumbai without downloading the app?</h3>
-              <p className="text-gray-600">A: Yes. The Big Mumbai game link works directly in any modern browser on mobile, tablet, or desktop — no download or installation required.</p>
+            <div className="faq-mobile-item border-b pb-6">
+              <h3 className="font-bold text-gray-900 mb-2 max-[480px]:text-[15px] max-[480px]:font-semibold">Q: Can I play Big Mumbai without downloading the app?</h3>
+              <p className="text-gray-600 max-[480px]:text-[14px]">A: Yes. The Big Mumbai game link works directly in any modern browser on mobile, tablet, or desktop — no download or installation required.</p>
             </div>
-            <div className="border-b pb-6">
-              <h3 className="font-bold text-gray-900 mb-2">Q: Why isn&apos;t the Big Mumbai game link opening?</h3>
-              <p className="text-gray-600">A: Most link issues are caused by incorrect URLs, browser cache problems, VPN interference, or firewall blocking. Clear your browser cache, disable VPN, and verify you&apos;re using the exact URL bigmumbaiwinn.com.</p>
+            <div className="faq-mobile-item border-b pb-6">
+              <h3 className="font-bold text-gray-900 mb-2 max-[480px]:text-[15px] max-[480px]:font-semibold">Q: Why isn&apos;t the Big Mumbai game link opening?</h3>
+              <p className="text-gray-600 max-[480px]:text-[14px]">A: Most link issues are caused by incorrect URLs, browser cache problems, VPN interference, or firewall blocking. Clear your browser cache, disable VPN, and verify you&apos;re using the exact URL bigmumbaiwinn.com.</p>
             </div>
-            <div className="border-b pb-6">
-              <h3 className="font-bold text-gray-900 mb-2">Q: Is it safe to use the Big Mumbai game link on mobile?</h3>
-              <p className="text-gray-600">A: Yes. The official Big Mumbai game link uses bank-level HTTPS encryption and is safe on all devices. Only use the verified URL from this page or bigmumbaiapkdownload.com.</p>
+            <div className="faq-mobile-item border-b pb-6">
+              <h3 className="font-bold text-gray-900 mb-2 max-[480px]:text-[15px] max-[480px]:font-semibold">Q: Is it safe to use the Big Mumbai game link on mobile?</h3>
+              <p className="text-gray-600 max-[480px]:text-[14px]">A: Yes. The official Big Mumbai game link uses bank-level HTTPS encryption and is safe on all devices. Only use the verified URL from this page or bigmumbaiapkdownload.com.</p>
             </div>
-            <div className="border-b pb-6">
-              <h3 className="font-bold text-gray-900 mb-2">Q: Does the browser link give access to all Big Mumbai games?</h3>
-              <p className="text-gray-600">A: Yes. All games — Big Mumbai Aviator, colour prediction, WinGo, lottery, casino, and more — are fully accessible through the Big Mumbai game link in your browser.</p>
+            <div className="faq-mobile-item border-b pb-6">
+              <h3 className="font-bold text-gray-900 mb-2 max-[480px]:text-[15px] max-[480px]:font-semibold">Q: Does the browser link give access to all Big Mumbai games?</h3>
+              <p className="text-gray-600 max-[480px]:text-[14px]">A: Yes. All games — Big Mumbai Aviator, colour prediction, WinGo, lottery, casino, and more — are fully accessible through the Big Mumbai game link in your browser.</p>
             </div>
-            <div className="border-b pb-6">
-              <h3 className="font-bold text-gray-900 mb-2">Q: What if the Big Mumbai link has changed?</h3>
-              <p className="text-gray-600">A: Always check bigmumbaiapkdownload.com or the official Big Mumbai Aviator Telegram channel for updated links. Our page is regularly updated with the current working Big Mumbai game link.</p>
+            <div className="faq-mobile-item border-b pb-6">
+              <h3 className="font-bold text-gray-900 mb-2 max-[480px]:text-[15px] max-[480px]:font-semibold">Q: What if the Big Mumbai link has changed?</h3>
+              <p className="text-gray-600 max-[480px]:text-[14px]">A: Always check bigmumbaiapkdownload.com or the official Big Mumbai Aviator Telegram channel for updated links. Our page is regularly updated with the current working Big Mumbai game link.</p>
             </div>
-            <div>
-              <h3 className="font-bold text-gray-900 mb-2">Q: Can I use the Big Mumbai game link on iPhone/iOS?</h3>
-              <p className="text-gray-600">A: Yes. Since APK installation isn&apos;t available on iOS, the Big Mumbai game link via Safari or Chrome is the recommended method for iPhone and iPad users.</p>
+            <div className="faq-mobile-item">
+              <h3 className="font-bold text-gray-900 mb-2 max-[480px]:text-[15px] max-[480px]:font-semibold">Q: Can I use the Big Mumbai game link on iPhone/iOS?</h3>
+              <p className="text-gray-600 max-[480px]:text-[14px]">A: Yes. Since APK installation isn&apos;t available on iOS, the Big Mumbai game link via Safari or Chrome is the recommended method for iPhone and iPad users.</p>
             </div>
           </div>
         </section>

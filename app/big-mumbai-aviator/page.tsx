@@ -390,54 +390,54 @@ export default function BigMumbaiAviatorPage() {
         </section>
 
         {/* Stats Bar */}
-        <section className="mb-12 py-8 bg-[#d2a778]/10 rounded-xl border border-[#d2a778]/20">
-          <div className="grid grid-cols-2 md:grid-cols-4 gap-6 text-center">
-            <div><p className="text-2xl font-bold text-[#d2a778]">100+</p><p className="text-gray-600 text-sm">Rounds Per Hour</p></div>
-            <div><p className="text-2xl font-bold text-[#d2a778]">8–30s</p><p className="text-gray-600 text-sm">Per Round Duration</p></div>
-            <div><p className="text-2xl font-bold text-[#d2a778]">1,000,000x</p><p className="text-gray-600 text-sm">Max Multiplier Possible</p></div>
-            <div><p className="text-2xl font-bold text-[#d2a778]">24/7</p><p className="text-gray-600 text-sm">Live Rounds Daily</p></div>
+        <section className="mb-12 py-8 bg-[#d2a778]/10 rounded-xl border border-[#d2a778]/20 max-[480px]:px-4 max-[480px]:py-6">
+          <div className="grid grid-cols-2 md:grid-cols-4 gap-6 text-center stats-grid-mobile max-[480px]:gap-3 max-[480px]:p-4">
+            <div className="max-[480px]:p-5"><p className="text-2xl font-bold text-[#d2a778] stat-number max-[480px]:text-[28px]">100+</p><p className="text-gray-600 text-sm stat-label max-[480px]:text-[13px]">Rounds Per Hour</p></div>
+            <div className="max-[480px]:p-5"><p className="text-2xl font-bold text-[#d2a778] stat-number max-[480px]:text-[28px]">8–30s</p><p className="text-gray-600 text-sm stat-label max-[480px]:text-[13px]">Per Round Duration</p></div>
+            <div className="max-[480px]:p-5"><p className="text-2xl font-bold text-[#d2a778] stat-number max-[480px]:text-[28px]">1,000,000x</p><p className="text-gray-600 text-sm stat-label max-[480px]:text-[13px]">Max Multiplier Possible</p></div>
+            <div className="max-[480px]:p-5"><p className="text-2xl font-bold text-[#d2a778] stat-number max-[480px]:text-[28px]">24/7</p><p className="text-gray-600 text-sm stat-label max-[480px]:text-[13px]">Live Rounds Daily</p></div>
           </div>
         </section>
 
         {/* FAQ Section */}
         <section className="mb-12">
           <h2 className="text-2xl font-bold text-[#d2a778] mb-8">Frequently Asked Questions — Big Mumbai Aviator</h2>
-          <div className="space-y-6">
-            <div className="border-b pb-6">
-              <h3 className="font-bold text-gray-900 mb-2">Q: What is Big Mumbai Aviator?</h3>
-              <p className="text-gray-600">A: Big Mumbai Aviator is a real-money crash game on the Big Mumbai platform where players bet on a rising multiplier and must cash out before the virtual plane crashes. Rounds complete in 8–30 seconds.</p>
+          <div className="space-y-0">
+            <div className="faq-mobile-item border-b pb-6">
+              <h3 className="font-bold text-gray-900 mb-2 max-[480px]:text-[15px] max-[480px]:font-semibold">Q: What is Big Mumbai Aviator?</h3>
+              <p className="text-gray-600 max-[480px]:text-[14px]">A: Big Mumbai Aviator is a real-money crash game on the Big Mumbai platform where players bet on a rising multiplier and must cash out before the virtual plane crashes. Rounds complete in 8–30 seconds.</p>
             </div>
-            <div className="border-b pb-6">
-              <h3 className="font-bold text-gray-900 mb-2">Q: How do I download Big Mumbai Aviator?</h3>
-              <p className="text-gray-600">A: Download the Big Mumbai APK latest version from bigmumbaiapkdownload.com for the best mobile experience. Or play Big Mumbai Aviator online directly in your browser at bigmumbaiwinn.com — no download required.</p>
+            <div className="faq-mobile-item border-b pb-6">
+              <h3 className="font-bold text-gray-900 mb-2 max-[480px]:text-[15px] max-[480px]:font-semibold">Q: How do I download Big Mumbai Aviator?</h3>
+              <p className="text-gray-600 max-[480px]:text-[14px]">A: Download the Big Mumbai APK latest version from bigmumbaiapkdownload.com for the best mobile experience. Or play Big Mumbai Aviator online directly in your browser at bigmumbaiwinn.com — no download required.</p>
             </div>
-            <div className="border-b pb-6">
-              <h3 className="font-bold text-gray-900 mb-2">Q: Is Big Mumbai Aviator real or fake?</h3>
-              <p className="text-gray-600">A: Big Mumbai Aviator is real. It uses internationally certified Provably Fair RNG technology, processes real-money withdrawals daily to Indian bank accounts and UPI, and is played by 500,000+ verified players on the Big Mumbai platform.</p>
+            <div className="faq-mobile-item border-b pb-6">
+              <h3 className="font-bold text-gray-900 mb-2 max-[480px]:text-[15px] max-[480px]:font-semibold">Q: Is Big Mumbai Aviator real or fake?</h3>
+              <p className="text-gray-600 max-[480px]:text-[14px]">A: Big Mumbai Aviator is real. It uses internationally certified Provably Fair RNG technology, processes real-money withdrawals daily to Indian bank accounts and UPI, and is played by 500,000+ verified players on the Big Mumbai platform.</p>
             </div>
-            <div className="border-b pb-6">
-              <h3 className="font-bold text-gray-900 mb-2">Q: Can I play Big Mumbai Aviator on iPhone?</h3>
-              <p className="text-gray-600">A: Yes. Since APK installation isn&apos;t available on iOS, play Big Mumbai Aviator online via Safari or Chrome at bigmumbaiwinn.com — the full game is accessible on all iOS devices.</p>
+            <div className="faq-mobile-item border-b pb-6">
+              <h3 className="font-bold text-gray-900 mb-2 max-[480px]:text-[15px] max-[480px]:font-semibold">Q: Can I play Big Mumbai Aviator on iPhone?</h3>
+              <p className="text-gray-600 max-[480px]:text-[14px]">A: Yes. Since APK installation isn&apos;t available on iOS, play Big Mumbai Aviator online via Safari or Chrome at bigmumbaiwinn.com — the full game is accessible on all iOS devices.</p>
             </div>
-            <div className="border-b pb-6">
-              <h3 className="font-bold text-gray-900 mb-2">Q: What is the maximum win on Big Mumbai Aviator?</h3>
-              <p className="text-gray-600">A: The theoretical maximum multiplier is 1,000,000x. Multipliers of 50x–200x occur regularly, with occasional rounds reaching 500x or higher.</p>
+            <div className="faq-mobile-item border-b pb-6">
+              <h3 className="font-bold text-gray-900 mb-2 max-[480px]:text-[15px] max-[480px]:font-semibold">Q: What is the maximum win on Big Mumbai Aviator?</h3>
+              <p className="text-gray-600 max-[480px]:text-[14px]">A: The theoretical maximum multiplier is 1,000,000x. Multipliers of 50x–200x occur regularly, with occasional rounds reaching 500x or higher.</p>
             </div>
-            <div className="border-b pb-6">
-              <h3 className="font-bold text-gray-900 mb-2">Q: Is there a Big Mumbai Aviator predictor or hack?</h3>
-              <p className="text-gray-600">A: No. Big Mumbai Aviator uses certified RNG — outcomes are mathematically random and cannot be predicted by any app, bot, or Telegram signal. Any platform claiming to offer an Aviator predictor is a scam. Use the bankroll management strategies outlined in this guide instead.</p>
+            <div className="faq-mobile-item border-b pb-6">
+              <h3 className="font-bold text-gray-900 mb-2 max-[480px]:text-[15px] max-[480px]:font-semibold">Q: Is there a Big Mumbai Aviator predictor or hack?</h3>
+              <p className="text-gray-600 max-[480px]:text-[14px]">A: No. Big Mumbai Aviator uses certified RNG — outcomes are mathematically random and cannot be predicted by any app, bot, or Telegram signal. Any platform claiming to offer an Aviator predictor is a scam. Use the bankroll management strategies outlined in this guide instead.</p>
             </div>
-            <div className="border-b pb-6">
-              <h3 className="font-bold text-gray-900 mb-2">Q: What is the Big Mumbai Aviator Telegram channel?</h3>
-              <p className="text-gray-600">A: The Big Mumbai Aviator Telegram channel is the official community hub — sharing bonus codes, strategies, APK updates, and tournament announcements. Always verify the channel is official before joining.</p>
+            <div className="faq-mobile-item border-b pb-6">
+              <h3 className="font-bold text-gray-900 mb-2 max-[480px]:text-[15px] max-[480px]:font-semibold">Q: What is the Big Mumbai Aviator Telegram channel?</h3>
+              <p className="text-gray-600 max-[480px]:text-[14px]">A: The Big Mumbai Aviator Telegram channel is the official community hub — sharing bonus codes, strategies, APK updates, and tournament announcements. Always verify the channel is official before joining.</p>
             </div>
-            <div className="border-b pb-6">
-              <h3 className="font-bold text-gray-900 mb-2">Q: What is the minimum bet on Big Mumbai Aviator?</h3>
-              <p className="text-gray-600">A: The minimum bet is ₹10 per round — making it accessible to all players regardless of bankroll size.</p>
+            <div className="faq-mobile-item border-b pb-6">
+              <h3 className="font-bold text-gray-900 mb-2 max-[480px]:text-[15px] max-[480px]:font-semibold">Q: What is the minimum bet on Big Mumbai Aviator?</h3>
+              <p className="text-gray-600 max-[480px]:text-[14px]">A: The minimum bet is ₹10 per round — making it accessible to all players regardless of bankroll size.</p>
             </div>
-            <div>
-              <h3 className="font-bold text-gray-900 mb-2">Q: How do I withdraw Aviator winnings from Big Mumbai?</h3>
-              <p className="text-gray-600">A: Go to Account → Withdraw in the Big Mumbai login app, add your bank account or UPI ID, and request withdrawal. Minimum ₹110 — processed within 1–2 hours typically.</p>
+            <div className="faq-mobile-item">
+              <h3 className="font-bold text-gray-900 mb-2 max-[480px]:text-[15px] max-[480px]:font-semibold">Q: How do I withdraw Aviator winnings from Big Mumbai?</h3>
+              <p className="text-gray-600 max-[480px]:text-[14px]">A: Go to Account → Withdraw in the Big Mumbai login app, add your bank account or UPI ID, and request withdrawal. Minimum ₹110 — processed within 1–2 hours typically.</p>
             </div>
           </div>
         </section>

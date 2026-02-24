@@ -161,7 +161,7 @@ export default function RootLayout({
           }}
         />
       </head>
-      <body className={poppins.className}>{children}<AutoYearScript /></body>
+      <body className={`${poppins.className} overflow-x-hidden max-w-[100vw]`}>{children}<AutoYearScript /></body>
     </html>
   );
 }

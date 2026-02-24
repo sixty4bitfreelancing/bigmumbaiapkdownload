@@ -38,13 +38,14 @@ export default function Home() {
             </div>
 
             <div className="flex flex-col gap-3 sm:flex-row sm:flex-wrap sm:gap-4 justify-center items-stretch mb-6 sm:mb-8">
-              <Link href={REGISTER_LINK} className="block w-full sm:w-auto min-h-[48px]">
+              <Link href={REGISTER_LINK} className="block w-full sm:w-auto min-h-[48px] cta-mobile-full">
                 <Button
                   size="lg"
-                  className="w-full sm:w-auto min-h-[48px] sm:min-h-0 bg-[#d2a778] text-black hover:bg-[#c49768] active:scale-[0.98] transition-all duration-300 text-sm sm:text-base px-4 sm:px-8 py-5 sm:py-6 rounded-xl font-bold shadow-lg shadow-[#d2a778]/30 flex items-center justify-center gap-2"
+                  className="w-full sm:w-auto min-h-[48px] sm:min-h-0 bg-[#d2a778] text-black hover:bg-[#c49768] active:scale-[0.98] transition-all duration-300 text-sm sm:text-base px-4 sm:px-8 py-5 sm:py-6 rounded-xl font-bold shadow-lg shadow-[#d2a778]/30 flex items-center justify-center gap-2 max-[480px]:w-full max-[480px]:py-4 max-[480px]:px-3 max-[480px]:text-[15px] max-[480px]:whitespace-normal max-[480px]:text-center"
                 >
                   <Download className="w-5 h-5 flex-shrink-0" />
-                  <span className="text-center">Download Big Mumbai APK – Latest Version</span>
+                  <span className="hidden sm:inline text-center">Download Big Mumbai APK – Latest Version</span>
+                  <span className="sm:hidden text-center">Download Official Big Mumbai APK — Free</span>
                 </Button>
               </Link>
 
@@ -268,10 +269,10 @@ export default function Home() {
             <p className="text-gray-600 font-medium">
               <Link href={REGISTER_LINK} className="text-[#d2a778] hover:underline font-medium">Join 500,000+ active players</Link> on BigMumbai and start winning today.
             </p>
-            <div className="mt-8 flex justify-center">
+            <div className="mt-8 flex justify-center max-[480px]:w-full">
               <Button
                 size="lg"
-                className="bg-[#d2a778] text-black hover:bg-[#c49768] transition-all duration-300 text-lg px-8 py-6 rounded-xl font-bold"
+                className="bg-[#d2a778] text-black hover:bg-[#c49768] transition-all duration-300 text-lg px-8 py-6 rounded-xl font-bold max-[480px]:w-full max-[480px]:py-4 max-[480px]:px-3 max-[480px]:text-[15px] max-[480px]:min-h-[48px]"
                 onClick={() => window.location.href = REGISTER_LINK}
               >
                 <Gamepad2 className="w-6 h-6 mr-2" />
@@ -291,27 +292,27 @@ export default function Home() {
             <div className="space-y-6">
               <div className="border-b border-gray-200 pb-6">
                 <h3 className="font-bold text-gray-900 mb-2">Q: Where to download Big Mumbai APK safely?</h3>
-                <p className="text-gray-600">A: The safest place to get the Big Mumbai APK download link is bigmumbaiapkdownload.com — <Link href={REGISTER_LINK} className="text-[#d2a778] hover:underline">register here with invitation code 54147218367</Link> for the only verified source for the Big Mumbai game original APK.</p>
+                <p className="text-gray-600 max-[480px]:text-[14px]">A: The safest place to get the Big Mumbai APK download link is bigmumbaiapkdownload.com — <Link href={REGISTER_LINK} className="text-[#d2a778] hover:underline">register here with invitation code 54147218367</Link> for the only verified source for the Big Mumbai game original APK.</p>
               </div>
-              <div className="border-b border-gray-200 pb-6">
-                <h3 className="font-bold text-gray-900 mb-2">Q: Is Big Mumbai game real or fake?</h3>
-                <p className="text-gray-600">A: Big Mumbai is a real and operational platform with 500,000+ users, instant withdrawals, and certified RNG games. It is not fake.</p>
+              <div className="faq-mobile-item border-b border-gray-200 pb-6">
+                <h3 className="font-bold text-gray-900 mb-2 max-[480px]:text-[15px] max-[480px]:font-semibold">Q: Is Big Mumbai game real or fake?</h3>
+                <p className="text-gray-600 max-[480px]:text-[14px]">A: Big Mumbai is a real and operational platform with 500,000+ users, instant withdrawals, and certified RNG games. It is not fake.</p>
               </div>
-              <div className="border-b border-gray-200 pb-6">
-                <h3 className="font-bold text-gray-900 mb-2">Q: How do I do a Big Mumbai APK download without login?</h3>
-                <p className="text-gray-600">A: Simply visit our download page and click the direct download button. You do not need an account to download the Big Mumbai APK file.</p>
+              <div className="faq-mobile-item border-b border-gray-200 pb-6">
+                <h3 className="font-bold text-gray-900 mb-2 max-[480px]:text-[15px] max-[480px]:font-semibold">Q: How do I do a Big Mumbai APK download without login?</h3>
+                <p className="text-gray-600 max-[480px]:text-[14px]">A: Simply visit our download page and click the direct download button. You do not need an account to download the Big Mumbai APK file.</p>
               </div>
-              <div className="border-b border-gray-200 pb-6">
-                <h3 className="font-bold text-gray-900 mb-2">Q: What is the latest Big Mumbai APK version in <span className="auto-year">2026</span>?</h3>
-                <p className="text-gray-600">A: The current release is the Big Mumbai APK <span className="auto-year">2026</span> download — always updated on this page. Check back regularly for the Big Mumbai updated APK download.</p>
+              <div className="faq-mobile-item border-b border-gray-200 pb-6">
+                <h3 className="font-bold text-gray-900 mb-2 max-[480px]:text-[15px] max-[480px]:font-semibold">Q: What is the latest Big Mumbai APK version in <span className="auto-year">2026</span>?</h3>
+                <p className="text-gray-600 max-[480px]:text-[14px]">A: The current release is the Big Mumbai APK <span className="auto-year">2026</span> download — always updated on this page. Check back regularly for the Big Mumbai updated APK download.</p>
               </div>
-              <div className="border-b border-gray-200 pb-6">
-                <h3 className="font-bold text-gray-900 mb-2">Q: Can I download the Big Mumbai APK for Android older devices?</h3>
-                <p className="text-gray-600">A: Yes. We archive the Big Mumbai APK old version for devices running Android 5.0 and above.</p>
+              <div className="faq-mobile-item border-b border-gray-200 pb-6">
+                <h3 className="font-bold text-gray-900 mb-2 max-[480px]:text-[15px] max-[480px]:font-semibold">Q: Can I download the Big Mumbai APK for Android older devices?</h3>
+                <p className="text-gray-600 max-[480px]:text-[14px]">A: Yes. We archive the Big Mumbai APK old version for devices running Android 5.0 and above.</p>
               </div>
-              <div className="pb-6">
-                <h3 className="font-bold text-gray-900 mb-2">Q: What is BigMumbaiLife / BigMumbaiWin?</h3>
-                <p className="text-gray-600">A: BigMumbaiLife and BigMumbaiWin are alternate brand names for the same official Big Mumbai platform — same games, same app, same rewards.</p>
+              <div className="faq-mobile-item pb-6">
+                <h3 className="font-bold text-gray-900 mb-2 max-[480px]:text-[15px] max-[480px]:font-semibold">Q: What is BigMumbaiLife / BigMumbaiWin?</h3>
+                <p className="text-gray-600 max-[480px]:text-[14px]">A: BigMumbaiLife and BigMumbaiWin are alternate brand names for the same official Big Mumbai platform — same games, same app, same rewards.</p>
               </div>
             </div>
           </div>

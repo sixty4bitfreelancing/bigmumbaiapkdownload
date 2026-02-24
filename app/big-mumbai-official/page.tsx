@@ -91,7 +91,7 @@ export default function BigMumbaiOfficialPage() {
             </ul>
             <p>The <strong>Big Mumbai platform</strong> is built on enterprise-grade infrastructure, combining bank-level security, certified fair-play technology, and a seamless user interface optimized specifically for Indian players.</p>
           </div>
-          <div className="overflow-x-auto">
+          <div className="overflow-x-auto rounded-lg">
             <table className="w-full border border-gray-200 rounded-lg">
               <thead>
                 <tr className="bg-gray-50">
@@ -194,7 +194,7 @@ export default function BigMumbaiOfficialPage() {
         <section className="mb-12">
           <h2 className="text-2xl font-bold text-[#d2a778] mb-6">Big Mumbai Fair Play — RNG Certification Explained</h2>
           <p className="text-gray-600 mb-6">&quot;Is the game rigged?&quot; On the <strong>Big Mumbai official site</strong>, the answer is backed by technology. <strong>RNG (Random Number Generation)</strong> generates outcomes that are statistically random, unbiased, and independently auditable. The platform uses internationally certified RNG across all games — <strong>Big Mumbai Aviator</strong>, <strong>Big Mumbai WinGo</strong>, <strong>Big Mumbai colour prediction</strong>, <strong>Big Mumbai lottery</strong>, and more.</p>
-          <div className="overflow-x-auto">
+          <div className="overflow-x-auto rounded-lg">
             <table className="w-full border border-gray-200 rounded-lg">
               <thead>
                 <tr className="bg-gray-50">
@@ -230,7 +230,7 @@ export default function BigMumbaiOfficialPage() {
         <section className="mb-12">
           <h2 className="text-2xl font-bold text-[#d2a778] mb-6">Big Mumbai Official APK — Download the Genuine App</h2>
           <p className="text-gray-600 mb-4">The <strong>Big Mumbai game original APK</strong> is the mobile manifestation of the <strong>Big Mumbai official site</strong>. Why the official APK matters: Unmodified code — no malware; Auto-updates — always on the latest version; Optimized for Indian Android devices; Full access to all games; Secure payment processing built in.</p>
-          <div className="overflow-x-auto mb-6">
+          <div className="overflow-x-auto rounded-lg mb-6">
             <table className="w-full border border-gray-200 rounded-lg">
               <thead>
                 <tr className="bg-gray-50">
@@ -254,42 +254,42 @@ export default function BigMumbaiOfficialPage() {
         </section>
 
         {/* Trust Stats Bar */}
-        <section className="mb-12 py-8 bg-[#d2a778]/10 rounded-xl border border-[#d2a778]/20">
-          <div className="grid grid-cols-2 md:grid-cols-4 gap-6 text-center">
-            <div><p className="text-2xl font-bold text-[#d2a778]">500K+</p><p className="text-gray-600 text-sm">Verified Players</p></div>
-            <div><p className="text-2xl font-bold text-[#d2a778]">₹10L+</p><p className="text-gray-600 text-sm">Rewards Paid Out</p></div>
-            <div><p className="text-2xl font-bold text-[#d2a778]">100+</p><p className="text-gray-600 text-sm">RNG-Certified Games</p></div>
-            <div><p className="text-2xl font-bold text-[#d2a778]"><span className="auto-year">2026</span></p><p className="text-gray-600 text-sm">Latest APK Version</p></div>
+        <section className="mb-12 py-8 bg-[#d2a778]/10 rounded-xl border border-[#d2a778]/20 max-[480px]:px-4 max-[480px]:py-6">
+          <div className="grid grid-cols-2 md:grid-cols-4 gap-6 text-center stats-grid-mobile max-[480px]:gap-3 max-[480px]:p-4">
+            <div className="max-[480px]:p-5"><p className="text-2xl font-bold text-[#d2a778] stat-number max-[480px]:text-[28px]">500K+</p><p className="text-gray-600 text-sm stat-label max-[480px]:text-[13px]">Verified Players</p></div>
+            <div className="max-[480px]:p-5"><p className="text-2xl font-bold text-[#d2a778] stat-number max-[480px]:text-[28px]">₹10L+</p><p className="text-gray-600 text-sm stat-label max-[480px]:text-[13px]">Rewards Paid Out</p></div>
+            <div className="max-[480px]:p-5"><p className="text-2xl font-bold text-[#d2a778] stat-number max-[480px]:text-[28px]">100+</p><p className="text-gray-600 text-sm stat-label max-[480px]:text-[13px]">RNG-Certified Games</p></div>
+            <div className="max-[480px]:p-5"><p className="text-2xl font-bold text-[#d2a778] stat-number max-[480px]:text-[28px]"><span className="auto-year">2026</span></p><p className="text-gray-600 text-sm stat-label max-[480px]:text-[13px]">Latest APK Version</p></div>
           </div>
         </section>
 
         {/* FAQ Section */}
         <section className="mb-12">
           <h2 className="text-2xl font-bold text-[#d2a778] mb-8">Frequently Asked Questions — Big Mumbai Official Site</h2>
-          <div className="space-y-6">
-            <div className="border-b pb-6">
-              <h3 className="font-bold text-gray-900 mb-2">Q: How do I know if I&apos;m on the real Big Mumbai official site?</h3>
-              <p className="text-gray-600">A: Check for <strong>https://</strong> and a padlock icon, verify the domain is <strong>bigmumbaiwinn.com</strong>, and confirm contact email is <strong>info@bigmumbaiwinn.com</strong>. For mobile, always download the <strong>Big Mumbai game original APK</strong> from bigmumbaiapkdownload.com.</p>
+          <div className="space-y-0">
+            <div className="faq-mobile-item border-b pb-6">
+              <h3 className="font-bold text-gray-900 mb-2 max-[480px]:text-[15px] max-[480px]:font-semibold">Q: How do I know if I&apos;m on the real Big Mumbai official site?</h3>
+              <p className="text-gray-600 max-[480px]:text-[14px]">A: Check for <strong>https://</strong> and a padlock icon, verify the domain is <strong>bigmumbaiwinn.com</strong>, and confirm contact email is <strong>info@bigmumbaiwinn.com</strong>. For mobile, always download the <strong>Big Mumbai game original APK</strong> from bigmumbaiapkdownload.com.</p>
             </div>
-            <div className="border-b pb-6">
-              <h3 className="font-bold text-gray-900 mb-2">Q: Are my earnings safe on the Big Mumbai official site?</h3>
-              <p className="text-gray-600">A: Yes. All transactions are encrypted with bank-grade SSL/TLS. The platform processes instant withdrawals via UPI and bank transfer. 500,000+ players have successfully withdrawn real money from BigMumbaiWin.</p>
+            <div className="faq-mobile-item border-b pb-6">
+              <h3 className="font-bold text-gray-900 mb-2 max-[480px]:text-[15px] max-[480px]:font-semibold">Q: Are my earnings safe on the Big Mumbai official site?</h3>
+              <p className="text-gray-600 max-[480px]:text-[14px]">A: Yes. All transactions are encrypted with bank-grade SSL/TLS. The platform processes instant withdrawals via UPI and bank transfer. 500,000+ players have successfully withdrawn real money from BigMumbaiWin.</p>
             </div>
-            <div className="border-b pb-6">
-              <h3 className="font-bold text-gray-900 mb-2">Q: Is Big Mumbai RNG certified?</h3>
-              <p className="text-gray-600">A: Yes. All games use internationally certified RNG technology — every outcome is mathematically random and independently auditable.</p>
+            <div className="faq-mobile-item border-b pb-6">
+              <h3 className="font-bold text-gray-900 mb-2 max-[480px]:text-[15px] max-[480px]:font-semibold">Q: Is Big Mumbai RNG certified?</h3>
+              <p className="text-gray-600 max-[480px]:text-[14px]">A: Yes. All games use internationally certified RNG technology — every outcome is mathematically random and independently auditable.</p>
             </div>
-            <div className="border-b pb-6">
-              <h3 className="font-bold text-gray-900 mb-2">Q: Is the Big Mumbai game real or fake?</h3>
-              <p className="text-gray-600">A: <strong>Big Mumbai is real.</strong> It is a verified, operational platform with 500,000+ active players, real-money withdrawals processed daily, a registered Big Mumbai office, and certified fair-play technology. It is not a fake or scam platform.</p>
+            <div className="faq-mobile-item border-b pb-6">
+              <h3 className="font-bold text-gray-900 mb-2 max-[480px]:text-[15px] max-[480px]:font-semibold">Q: Is the Big Mumbai game real or fake?</h3>
+              <p className="text-gray-600 max-[480px]:text-[14px]">A: <strong>Big Mumbai is real.</strong> It is a verified, operational platform with 500,000+ active players, real-money withdrawals processed daily, a registered Big Mumbai office, and certified fair-play technology. It is not a fake or scam platform.</p>
             </div>
-            <div className="border-b pb-6">
-              <h3 className="font-bold text-gray-900 mb-2">Q: What is the safest way to download the Big Mumbai APK?</h3>
-              <p className="text-gray-600">A: Download exclusively from bigmumbaiapkdownload.com. Never download from unknown Telegram links, random websites, or APK aggregators.</p>
+            <div className="faq-mobile-item border-b pb-6">
+              <h3 className="font-bold text-gray-900 mb-2 max-[480px]:text-[15px] max-[480px]:font-semibold">Q: What is the safest way to download the Big Mumbai APK?</h3>
+              <p className="text-gray-600 max-[480px]:text-[14px]">A: Download exclusively from bigmumbaiapkdownload.com. Never download from unknown Telegram links, random websites, or APK aggregators.</p>
             </div>
             <div>
-              <h3 className="font-bold text-gray-900 mb-2">Q: Does Big Mumbai have responsible gaming features?</h3>
-              <p className="text-gray-600">A: Yes. The Big Mumbai official site includes deposit limits, session time alerts, and self-exclusion options.</p>
+              <h3 className="font-bold text-gray-900 mb-2 max-[480px]:text-[15px] max-[480px]:font-semibold">Q: Does Big Mumbai have responsible gaming features?</h3>
+              <p className="text-gray-600 max-[480px]:text-[14px]">A: Yes. The Big Mumbai official site includes deposit limits, session time alerts, and self-exclusion options.</p>
             </div>
           </div>
         </section>
@@ -298,19 +298,19 @@ export default function BigMumbaiOfficialPage() {
         <section className="mb-12 p-8 bg-[#d2a778]/10 rounded-xl border border-[#d2a778]/20 text-center">
           <h2 className="text-2xl font-bold text-[#d2a778] mb-6">Access the Big Mumbai Official Platform — Secure, Verified & Ready</h2>
           <p className="text-gray-600 mb-6">Whether you&apos;re starting your <Link href={REGISTER_LINK} className="text-[#d2a778] hover:underline">Big Mumbai registration</Link> or need the <Link href={REGISTER_LINK} className="text-[#d2a778] hover:underline">Big Mumbai APK latest version</Link> — always use verified sources. Download from bigmumbaiapkdownload.com, register with invitation code <strong>54147218367</strong>, and claim your ₹500 welcome bonus.</p>
-          <div className="flex flex-col sm:flex-row gap-4 justify-center flex-wrap">
-            <Link href={REGISTER_LINK}>
-              <Button className="bg-[#d2a778] text-black hover:bg-[#c49768] font-bold">
+          <div className="flex flex-col sm:flex-row gap-4 justify-center flex-wrap cta-mobile-full max-[480px]:[&_a]:w-full max-[480px]:[&_button]:w-full">
+            <Link href={REGISTER_LINK} className="max-[480px]:w-full">
+              <Button className="bg-[#d2a778] text-black hover:bg-[#c49768] font-bold max-[480px]:w-full">
                 <Download className="w-4 h-4 mr-2" /> Download Big Mumbai Official APK — Latest Version <span className="auto-year">2026</span>
               </Button>
             </Link>
-            <Link href={REGISTER_LINK}>
-              <Button variant="outline" className="border-[#d2a778] text-[#d2a778] hover:bg-[#d2a778] hover:text-black font-semibold">
+            <Link href={REGISTER_LINK} className="max-[480px]:w-full">
+              <Button variant="outline" className="border-[#d2a778] text-[#d2a778] hover:bg-[#d2a778] hover:text-black font-semibold max-[480px]:w-full">
                 <ClipboardList className="w-4 h-4 mr-2" /> Register on Big Mumbai — Get ₹500 Bonus
               </Button>
             </Link>
-            <Link href={REGISTER_LINK}>
-              <Button variant="outline" className="border-[#d2a778]/70 text-gray-700 hover:bg-[#d2a778] hover:text-black font-semibold">
+            <Link href={REGISTER_LINK} className="max-[480px]:w-full">
+              <Button variant="outline" className="border-[#d2a778]/70 text-gray-700 hover:bg-[#d2a778] hover:text-black font-semibold max-[480px]:w-full">
                 <Lock className="w-4 h-4 mr-2" /> Big Mumbai Login App Download
               </Button>
             </Link>
