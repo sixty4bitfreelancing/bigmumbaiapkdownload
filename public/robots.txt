@@ -1,0 +1,150 @@
+# robots.txt for bigmumbaiapkdownload.com
+# Allows all search engines and AI crawlers; blocks admin/private paths
+
+User-agent: *
+Allow: /
+Allow: /*.png$
+Allow: /*.jpg$
+Allow: /*.jpeg$
+Allow: /*.gif$
+Allow: /*.webp$
+Allow: /*.css$
+Allow: /*.js$
+Allow: /*.apk$
+Disallow: /admin/
+Disallow: /wp-admin/
+Disallow: /private/
+Disallow: /temp/
+Disallow: /backup/
+
+User-agent: Googlebot
+Allow: /
+Disallow: /admin/
+Disallow: /wp-admin/
+Disallow: /private/
+Disallow: /temp/
+Disallow: /backup/
+
+User-agent: Googlebot-Image
+Allow: /
+Allow: /Images/
+Allow: /*.png$
+Allow: /*.jpg$
+Allow: /*.jpeg$
+Allow: /*.gif$
+Allow: /*.webp$
+Allow: /*.ico$
+Disallow: /admin/
+Disallow: /wp-admin/
+Disallow: /private/
+Disallow: /temp/
+Disallow: /backup/
+
+User-agent: Googlebot-Mobile
+Allow: /
+Allow: /*.png$
+Allow: /*.jpg$
+Allow: /*.apk$
+Disallow: /admin/
+Disallow: /wp-admin/
+Disallow: /private/
+Disallow: /temp/
+Disallow: /backup/
+
+User-agent: Bingbot
+Allow: /
+Disallow: /admin/
+Disallow: /wp-admin/
+Disallow: /private/
+Disallow: /temp/
+Disallow: /backup/
+
+User-agent: Yandex
+Allow: /
+Disallow: /admin/
+Disallow: /wp-admin/
+Disallow: /private/
+Disallow: /temp/
+Disallow: /backup/
+
+User-agent: DuckDuckBot
+Allow: /
+Disallow: /admin/
+Disallow: /wp-admin/
+Disallow: /private/
+Disallow: /temp/
+Disallow: /backup/
+
+User-agent: Applebot
+Allow: /
+Disallow: /admin/
+Disallow: /wp-admin/
+Disallow: /private/
+Disallow: /temp/
+Disallow: /backup/
+
+# AI search engine & crawler bots
+User-agent: GPTBot
+Allow: /
+Disallow: /admin/
+Disallow: /wp-admin/
+Disallow: /private/
+Disallow: /temp/
+Disallow: /backup/
+Crawl-delay: 1
+
+User-agent: ClaudeBot
+Allow: /
+Disallow: /admin/
+Disallow: /wp-admin/
+Disallow: /private/
+Disallow: /temp/
+Disallow: /backup/
+Crawl-delay: 1
+
+User-agent: PerplexityBot
+Allow: /
+Disallow: /admin/
+Disallow: /wp-admin/
+Disallow: /private/
+Disallow: /temp/
+Disallow: /backup/
+Crawl-delay: 1
+
+User-agent: Bytespider
+Allow: /
+Disallow: /admin/
+Disallow: /wp-admin/
+Disallow: /private/
+Disallow: /temp/
+Disallow: /backup/
+Crawl-delay: 1
+
+User-agent: ChatGPT-User
+Allow: /
+Disallow: /admin/
+Disallow: /wp-admin/
+Disallow: /private/
+Disallow: /temp/
+Disallow: /backup/
+Crawl-delay: 1
+
+User-agent: cohere-ai
+Allow: /
+Disallow: /admin/
+Disallow: /wp-admin/
+Disallow: /private/
+Disallow: /temp/
+Disallow: /backup/
+Crawl-delay: 1
+
+User-agent: anthropic-ai
+Allow: /
+Disallow: /admin/
+Disallow: /wp-admin/
+Disallow: /private/
+Disallow: /temp/
+Disallow: /backup/
+Crawl-delay: 1
+
+Sitemap: https://bigmumbaiapkdownload.com/sitemap.xml
