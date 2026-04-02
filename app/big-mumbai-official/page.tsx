@@ -297,7 +297,7 @@ export default function BigMumbaiOfficialPage() {
         {/* Final CTA Section */}
         <section className="mb-12 p-8 bg-[#d2a778]/10 rounded-xl border border-[#d2a778]/20 text-center">
           <h2 className="text-2xl font-bold text-[#d2a778] mb-6">Access the Big Mumbai Official Platform — Secure, Verified & Ready</h2>
-          <p className="text-gray-600 mb-6">Whether you&apos;re starting your <Link href={REGISTER_LINK} className="text-[#d2a778] hover:underline">Big Mumbai registration</Link> or need the <Link href={REGISTER_LINK} className="text-[#d2a778] hover:underline">Big Mumbai APK latest version</Link> — always use verified sources. Download from bigmumbaiapkdownload.com, register with invitation code <strong>54147218367</strong>, and claim your ₹500 welcome bonus.</p>
+          <p className="text-gray-600 mb-6">Whether you&apos;re starting your <Link href={REGISTER_LINK} className="text-[#d2a778] hover:underline">Big Mumbai registration</Link> or need the <Link href={REGISTER_LINK} className="text-[#d2a778] hover:underline">Big Mumbai APK latest version</Link> — always use verified sources. Download from bigmumbaiapkdownload.com, register with invitation code <strong>16454276749</strong>, and claim your ₹500 welcome bonus.</p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center flex-wrap cta-mobile-full max-[480px]:[&_a]:w-full max-[480px]:[&_button]:w-full">
             <Link href={REGISTER_LINK} className="max-[480px]:w-full">
               <Button className="bg-[#d2a778] text-black hover:bg-[#c49768] font-bold max-[480px]:w-full">

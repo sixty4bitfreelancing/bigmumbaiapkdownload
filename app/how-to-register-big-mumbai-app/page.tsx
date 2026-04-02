@@ -50,7 +50,7 @@ export default function HowToRegisterPage() {
               <li>✅ An Android smartphone (Android 5.0 or above)</li>
               <li>✅ The <Link href={REGISTER_LINK} className="text-[#d2a778] hover:underline">Big Mumbai APK download latest version</Link> installed (available on this site)</li>
               <li>✅ A valid Indian mobile number</li>
-              <li>✅ Your Big Mumbai invitation code: <strong>54147218367</strong></li>
+              <li>✅ Your Big Mumbai invitation code: <strong>16454276749</strong></li>
               <li>✅ A strong 8–14 character password ready</li>
             </ul>
           </div>
@@ -115,11 +115,11 @@ export default function HowToRegisterPage() {
                     <tr className="border-t"><td className="p-3">📱 Mobile Number</td><td className="p-3">Your active Indian mobile number</td></tr>
                     <tr className="border-t"><td className="p-3">🔐 Password</td><td className="p-3">8–14 characters (mix of letters & numbers recommended)</td></tr>
                     <tr className="border-t"><td className="p-3">🔁 Confirm Password</td><td className="p-3">Re-enter the same password</td></tr>
-                    <tr className="border-t"><td className="p-3">🎟️ Invitation Code</td><td className="p-3"><strong>54147218367</strong> (mandatory for bonus)</td></tr>
+                    <tr className="border-t"><td className="p-3">🎟️ Invitation Code</td><td className="p-3"><strong>16454276749</strong> (mandatory for bonus)</td></tr>
                   </tbody>
                 </table>
               </div>
-              <p className="text-amber-800 bg-amber-50 p-4 rounded-lg mt-4 text-sm">⚠️ Important: The Big Mumbai invitation code <strong>54147218367</strong> must be entered during registration — it cannot be added later. This code unlocks your ₹10–₹100 gift bonus on top of the standard welcome offer.</p>
+              <p className="text-amber-800 bg-amber-50 p-4 rounded-lg mt-4 text-sm">⚠️ Important: The Big Mumbai invitation code <strong>16454276749</strong> must be entered during registration — it cannot be added later. This code unlocks your ₹10–₹100 gift bonus on top of the standard welcome offer.</p>
             </div>
 
             <div>
@@ -140,7 +140,7 @@ export default function HowToRegisterPage() {
             loading="lazy"
             className="w-full h-auto object-cover"
           />
-          <p className="text-center text-sm text-gray-500 py-3 bg-gray-50">Fill in your mobile number, password, and Big Mumbai invitation code 54147218367 to complete registration</p>
+          <p className="text-center text-sm text-gray-500 py-3 bg-gray-50">Fill in your mobile number, password, and Big Mumbai invitation code 16454276749 to complete registration</p>
         </div>
 
         {/* Invitation Code Section */}
@@ -148,7 +148,7 @@ export default function HowToRegisterPage() {
           <h2 className="text-2xl font-bold text-[#d2a778] mb-6">Big Mumbai Invitation Code <span className="auto-year">2026</span> — What It Is & Why It Matters</h2>
           <p className="text-gray-600 mb-4">The Big Mumbai invitation code is a referral identifier that links your new account to a verified player network on the Big Mumbai platform. Entering the correct code during Big Mumbai game register unlocks exclusive entry-level bonuses that are not available to users who skip this field.</p>
           <p className="text-lg font-bold text-gray-900 mb-2">🎟️ Official Big Mumbai Invitation Code:</p>
-          <p className="text-2xl font-bold text-[#d2a778] mb-6">54147218367</p>
+          <p className="text-2xl font-bold text-[#d2a778] mb-6">16454276749</p>
           <p className="text-gray-600 mb-4">Benefits of using this invitation code:</p>
           <ul className="space-y-2 text-gray-600 mb-4">
             <li>🎁 Instant ₹10–₹100 gift code bonus credited on registration</li>
@@ -251,7 +251,7 @@ export default function HowToRegisterPage() {
         {/* Final CTA Section */}
         <section className="mb-12 p-8 bg-[#d2a778]/10 rounded-xl border border-[#d2a778]/20 text-center">
           <h2 className="text-2xl font-bold text-[#d2a778] mb-6">Ready to Register? Download Big Mumbai APK & Start Now</h2>
-          <p className="text-gray-600 mb-6">You now have everything to complete your Big Mumbai game register. Download the Big Mumbai APK latest version <span className="auto-year">2026</span>, enter invitation code 54147218367, and claim your ₹500 welcome bonus in under 3 minutes.</p>
+          <p className="text-gray-600 mb-6">You now have everything to complete your Big Mumbai game register. Download the Big Mumbai APK latest version <span className="auto-year">2026</span>, enter invitation code 16454276749, and claim your ₹500 welcome bonus in under 3 minutes.</p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center flex-wrap">
             <Link href={REGISTER_LINK}>
               <Button className="w-full sm:w-auto bg-[#d2a778] text-black hover:bg-[#c49768] font-bold">
@@ -269,7 +269,7 @@ export default function HowToRegisterPage() {
               </Button>
             </Link>
           </div>
-          <p className="text-gray-600 text-sm mt-6">✅ Free Registration | ✅ ₹500 Instant Bonus | ✅ Invitation Code: 54147218367 | ✅ 100% Secure | ✅ Instant Withdrawals</p>
+          <p className="text-gray-600 text-sm mt-6">✅ Free Registration | ✅ ₹500 Instant Bonus | ✅ Invitation Code: 16454276749 | ✅ 100% Secure | ✅ Instant Withdrawals</p>
         </section>
 
         {/* FAQ Section */}
@@ -278,11 +278,11 @@ export default function HowToRegisterPage() {
           <div className="space-y-0">
             <div className="faq-mobile-item border-b pb-6">
               <h3 className="font-bold text-gray-900 mb-2 max-[480px]:text-[15px] max-[480px]:font-semibold">Q: How do I register on Big Mumbai app?</h3>
-              <p className="text-gray-600 max-[480px]:text-[14px]">A: Download the Big Mumbai APK from bigmumbaiapkdownload.com, open the app, tap Account → Register, fill in mobile number, password, and invitation code 54147218367, then tap Register. Done in under 3 minutes.</p>
+              <p className="text-gray-600 max-[480px]:text-[14px]">A: Download the Big Mumbai APK from bigmumbaiapkdownload.com, open the app, tap Account → Register, fill in mobile number, password, and invitation code 16454276749, then tap Register. Done in under 3 minutes.</p>
             </div>
             <div className="faq-mobile-item border-b pb-6">
               <h3 className="font-bold text-gray-900 mb-2 max-[480px]:text-[15px] max-[480px]:font-semibold">Q: What is the Big Mumbai invitation code for 2026?</h3>
-              <p className="text-gray-600 max-[480px]:text-[14px]">A: The current working Big Mumbai invitation code is 54147218367. Enter during registration to unlock gift bonus ₹10–₹100 plus Big Mumbai 500 welcome offer.</p>
+              <p className="text-gray-600 max-[480px]:text-[14px]">A: The current working Big Mumbai invitation code is 16454276749. Enter during registration to unlock gift bonus ₹10–₹100 plus Big Mumbai 500 welcome offer.</p>
             </div>
             <div className="faq-mobile-item border-b pb-6">
               <h3 className="font-bold text-gray-900 mb-2 max-[480px]:text-[15px] max-[480px]:font-semibold">Q: Is Big Mumbai registration free?</h3>
@@ -354,12 +354,12 @@ export default function HowToRegisterPage() {
             '@context': 'https://schema.org',
             '@type': 'HowTo',
             name: 'How to Register on Big Mumbai App',
-            description: 'Complete step-by-step guide to register on Big Mumbai app with invitation code 54147218367.',
+            description: 'Complete step-by-step guide to register on Big Mumbai app with invitation code 16454276749.',
             step: [
               { '@type': 'HowToStep', name: 'Download the Big Mumbai APK', text: 'Visit bigmumbaiapkdownload.com and download the Big Mumbai APK latest version. Enable Install from Unknown Sources in Settings.' },
               { '@type': 'HowToStep', name: 'Open the App or Website', text: 'Open the installed Big Mumbai app or visit the official site. Use links from bigmumbaiapkdownload.com only.' },
               { '@type': 'HowToStep', name: 'Tap Account then Register', text: 'Tap Account tab on the bottom navigation, then tap Register.' },
-              { '@type': 'HowToStep', name: 'Fill in Your Details', text: 'Enter mobile number, password (8-14 chars), confirm password, and invitation code 54147218367.' },
+              { '@type': 'HowToStep', name: 'Fill in Your Details', text: 'Enter mobile number, password (8-14 chars), confirm password, and invitation code 16454276749.' },
               { '@type': 'HowToStep', name: 'Submit and Start Playing', text: 'Tap Register. Account created instantly. ₹500 welcome bonus credited.' },
             ],
           }),
@@ -372,8 +372,8 @@ export default function HowToRegisterPage() {
             '@context': 'https://schema.org',
             '@type': 'FAQPage',
             mainEntity: [
-              { '@type': 'Question', name: 'How do I register on Big Mumbai app?', acceptedAnswer: { '@type': 'Answer', text: 'Download the Big Mumbai APK from bigmumbaiapkdownload.com, open the app, tap Account → Register, fill in mobile number, password, and invitation code 54147218367, then tap Register. Done in under 3 minutes.' } },
-              { '@type': 'Question', name: 'What is the Big Mumbai invitation code for 2026?', acceptedAnswer: { '@type': 'Answer', text: 'The current working Big Mumbai invitation code is 54147218367. Enter during registration to unlock gift bonus ₹10–₹100 plus Big Mumbai 500 welcome offer.' } },
+              { '@type': 'Question', name: 'How do I register on Big Mumbai app?', acceptedAnswer: { '@type': 'Answer', text: 'Download the Big Mumbai APK from bigmumbaiapkdownload.com, open the app, tap Account → Register, fill in mobile number, password, and invitation code 16454276749, then tap Register. Done in under 3 minutes.' } },
+              { '@type': 'Question', name: 'What is the Big Mumbai invitation code for 2026?', acceptedAnswer: { '@type': 'Answer', text: 'The current working Big Mumbai invitation code is 16454276749. Enter during registration to unlock gift bonus ₹10–₹100 plus Big Mumbai 500 welcome offer.' } },
               { '@type': 'Question', name: 'Is Big Mumbai registration free?', acceptedAnswer: { '@type': 'Answer', text: 'Yes. Big Mumbai game register online is completely free. No deposit needed to create account or claim welcome bonus.' } },
               { '@type': 'Question', name: 'Can I register without downloading the APK?', acceptedAnswer: { '@type': 'Answer', text: 'Yes, via the official website on mobile browser. However, downloading the Big Mumbai login app gives the best experience.' } },
               { '@type': 'Question', name: 'How long does Big Mumbai registration take?', acceptedAnswer: { '@type': 'Answer', text: 'Under 3 minutes — mobile number, password, invitation code, and activation are all instant.' } },

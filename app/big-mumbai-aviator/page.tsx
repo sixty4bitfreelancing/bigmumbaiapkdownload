@@ -165,7 +165,7 @@ export default function BigMumbaiAviatorPage() {
 
             <div>
               <h3 className="text-xl font-bold text-gray-900 mb-3">Step 2 — Register or Login</h3>
-              <p className="text-gray-600"><strong>If you&apos;re new:</strong> <Link href={REGISTER_LINK} className="text-[#d2a778] hover:underline">Complete Big Mumbai game register</Link> using your mobile number, password, and invitation code 54147218367 to unlock your ₹500 welcome bonus. <strong>If you&apos;re returning:</strong> Use your Big Mumbai APK login credentials to access your account directly.</p>
+              <p className="text-gray-600"><strong>If you&apos;re new:</strong> <Link href={REGISTER_LINK} className="text-[#d2a778] hover:underline">Complete Big Mumbai game register</Link> using your mobile number, password, and invitation code 16454276749 to unlock your ₹500 welcome bonus. <strong>If you&apos;re returning:</strong> Use your Big Mumbai APK login credentials to access your account directly.</p>
             </div>
 
             <div>
@@ -376,9 +376,9 @@ export default function BigMumbaiAviatorPage() {
                 </tr>
               </thead>
               <tbody className="text-gray-600">
-                <tr className="border-t"><td className="p-3">🎁 Welcome Bonus</td><td className="p-3">₹500</td><td className="p-3">Register with code 54147218367</td></tr>
+                <tr className="border-t"><td className="p-3">🎁 Welcome Bonus</td><td className="p-3">₹500</td><td className="p-3">Register with code 16454276749</td></tr>
                 <tr className="border-t"><td className="p-3">📅 Daily Login Reward</td><td className="p-3">Varies</td><td className="p-3">Log in every day</td></tr>
-                <tr className="border-t"><td className="p-3">🎟️ Invitation Code Gift</td><td className="p-3">₹10–₹100</td><td className="p-3">Enter 54147218367 on registration</td></tr>
+                <tr className="border-t"><td className="p-3">🎟️ Invitation Code Gift</td><td className="p-3">₹10–₹100</td><td className="p-3">Enter 16454276749 on registration</td></tr>
                 <tr className="border-t"><td className="p-3">🏆 Aviator Tournament</td><td className="p-3">Grand prizes</td><td className="p-3">Participate during tournament periods</td></tr>
                 <tr className="border-t"><td className="p-3">👥 Referral Commission</td><td className="p-3">0.6% per level</td><td className="p-3">Share your unique referral link</td></tr>
                 <tr className="border-t"><td className="p-3">💰 First Recharge Bonus</td><td className="p-3">% of deposit</td><td className="p-3">Make your first deposit</td></tr>
@@ -445,7 +445,7 @@ export default function BigMumbaiAviatorPage() {
         {/* Final CTA Section */}
         <section className="mb-12 p-8 bg-[#d2a778]/10 rounded-xl border border-[#d2a778]/20 text-center">
           <h2 className="text-2xl font-bold text-[#d2a778] mb-6">Play Big Mumbai Aviator Now — Download, Register & Win</h2>
-          <p className="text-gray-600 mb-6">You now have everything you need to play Big Mumbai Aviator like a professional. Download the Big Mumbai APK latest version, complete your <Link href={REGISTER_LINK} className="text-[#d2a778] hover:underline">Big Mumbai registration</Link> with invitation code 54147218367, and claim your ₹500 welcome bonus before your very first Aviator round.</p>
+          <p className="text-gray-600 mb-6">You now have everything you need to play Big Mumbai Aviator like a professional. Download the Big Mumbai APK latest version, complete your <Link href={REGISTER_LINK} className="text-[#d2a778] hover:underline">Big Mumbai registration</Link> with invitation code 16454276749, and claim your ₹500 welcome bonus before your very first Aviator round.</p>
           <p className="text-gray-600 mb-6 italic">The plane is waiting. The multiplier is climbing. Will you cash out in time?</p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center flex-wrap mb-4">
             <Link href={REGISTER_LINK}>
@@ -543,7 +543,7 @@ export default function BigMumbaiAviatorPage() {
             name: 'How to Play Big Mumbai Aviator Online',
             step: [
               { '@type': 'HowToStep', name: 'Get the Big Mumbai Aviator Download', text: 'Visit bigmumbaiwinn.com in browser or download the Big Mumbai APK from bigmumbaiapkdownload.com.' },
-              { '@type': 'HowToStep', name: 'Register or Login', text: 'Register with mobile number and invitation code 54147218367 for ₹500 bonus, or login with existing credentials.' },
+              { '@type': 'HowToStep', name: 'Register or Login', text: 'Register with mobile number and invitation code 16454276749 for ₹500 bonus, or login with existing credentials.' },
               { '@type': 'HowToStep', name: 'Navigate to Big Mumbai Aviator', text: 'Find Aviator in the game lobby under Mini Games or Popular Games.' },
               { '@type': 'HowToStep', name: 'Place Your First Bet', text: 'During the 5-second betting window, enter bet amount and optionally set Auto Cash Out target.' },
               { '@type': 'HowToStep', name: 'Watch, Decide, Cash Out', text: 'Watch the plane climb and multiplier rise. Tap Cash Out at your target multiplier to secure winnings.' },

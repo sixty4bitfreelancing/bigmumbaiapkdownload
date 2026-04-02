@@ -82,7 +82,7 @@ export default function Home() {
             </h2>
 
             <p className="text-base sm:text-lg text-gray-600 mb-8 max-w-3xl mx-auto leading-relaxed">
-              Welcome to bigmumbaiapkdownload.com — your official source for Big Mumbai APK download latest version <span className="auto-year">2026</span>. <Link href={REGISTER_LINK} className="text-[#d2a778] hover:underline font-medium">Register on Big Mumbai</Link> with invitation code 54147218367 to get instant access. Whether you&apos;re looking for the Big Mumbai new version APK, the Big Mumbai updated APK download, or even the Big Mumbai APK old version, you&apos;ll find every version right here. Get the Big Mumbai game original APK fast, safe, and directly on your Android device — no hassle, no waiting.
+              Welcome to bigmumbaiapkdownload.com — your official source for Big Mumbai APK download latest version <span className="auto-year">2026</span>. <Link href={REGISTER_LINK} className="text-[#d2a778] hover:underline font-medium">Register on Big Mumbai</Link> with invitation code 16454276749 to get instant access. Whether you&apos;re looking for the Big Mumbai new version APK, the Big Mumbai updated APK download, or even the Big Mumbai APK old version, you&apos;ll find every version right here. Get the Big Mumbai game original APK fast, safe, and directly on your Android device — no hassle, no waiting.
             </p>
           </div>
         </section>
@@ -292,7 +292,7 @@ export default function Home() {
             <div className="space-y-6">
               <div className="border-b border-gray-200 pb-6">
                 <h3 className="font-bold text-gray-900 mb-2">Q: Where to download Big Mumbai APK safely?</h3>
-                <p className="text-gray-600 max-[480px]:text-[14px]">A: The safest place to get the Big Mumbai APK download link is bigmumbaiapkdownload.com — <Link href={REGISTER_LINK} className="text-[#d2a778] hover:underline">register here with invitation code 54147218367</Link> for the only verified source for the Big Mumbai game original APK.</p>
+                <p className="text-gray-600 max-[480px]:text-[14px]">A: The safest place to get the Big Mumbai APK download link is bigmumbaiapkdownload.com — <Link href={REGISTER_LINK} className="text-[#d2a778] hover:underline">register here with invitation code 16454276749</Link> for the only verified source for the Big Mumbai game original APK.</p>
               </div>
               <div className="faq-mobile-item border-b border-gray-200 pb-6">
                 <h3 className="font-bold text-gray-900 mb-2 max-[480px]:text-[15px] max-[480px]:font-semibold">Q: Is Big Mumbai game real or fake?</h3>

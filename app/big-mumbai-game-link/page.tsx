@@ -181,7 +181,7 @@ export default function BigMumbaiGameLinkPage() {
                   </tbody>
                 </table>
               </div>
-              <p className="text-gray-600 mb-2"><strong>New users:</strong> Clicking Register takes you to the <Link href={REGISTER_LINK} className="text-[#d2a778] hover:underline">Big Mumbai registration</Link> form. Enter your mobile number, create an 8–14 character password, and input the invitation code 54147218367 to unlock your welcome bonus.</p>
+              <p className="text-gray-600 mb-2"><strong>New users:</strong> Clicking Register takes you to the <Link href={REGISTER_LINK} className="text-[#d2a778] hover:underline">Big Mumbai registration</Link> form. Enter your mobile number, create an 8–14 character password, and input the invitation code 16454276749 to unlock your welcome bonus.</p>
               <p className="text-gray-600"><strong>Returning users:</strong> Clicking Login opens the Big Mumbai APK login portal. Enter your registered mobile number and password to access your full game dashboard instantly.</p>
             </div>
 
@@ -371,12 +371,12 @@ export default function BigMumbaiGameLinkPage() {
                 </tr>
               </thead>
               <tbody className="text-gray-600">
-                <tr className="border-t"><td className="p-3">🎁 Big Mumbai 500</td><td className="p-3">₹500 welcome bonus</td><td className="p-3">Register with invitation code 54147218367</td></tr>
+                <tr className="border-t"><td className="p-3">🎁 Big Mumbai 500</td><td className="p-3">₹500 welcome bonus</td><td className="p-3">Register with invitation code 16454276749</td></tr>
                 <tr className="border-t"><td className="p-3">📅 Daily Login Reward</td><td className="p-3">Bonus credited every day you login</td><td className="p-3">Simply login via Big Mumbai game link</td></tr>
                 <tr className="border-t"><td className="p-3">🏆 Tournament Prizes</td><td className="p-3">Seasonal & weekly competitions</td><td className="p-3">Participate via game lobby</td></tr>
                 <tr className="border-t"><td className="p-3">👥 Referral Commission</td><td className="p-3">0.6% across 6 levels</td><td className="p-3">Share your unique referral link</td></tr>
                 <tr className="border-t"><td className="p-3">🥇 First Recharge Bonus</td><td className="p-3">Extra bonus on first deposit</td><td className="p-3">Make first deposit via verified payment</td></tr>
-                <tr className="border-t"><td className="p-3">🎟️ Gift Codes</td><td className="p-3">₹10–₹100 via invitation code</td><td className="p-3">Enter code 54147218367 at registration</td></tr>
+                <tr className="border-t"><td className="p-3">🎟️ Gift Codes</td><td className="p-3">₹10–₹100 via invitation code</td><td className="p-3">Enter code 16454276749 at registration</td></tr>
               </tbody>
             </table>
           </div>
@@ -421,7 +421,7 @@ export default function BigMumbaiGameLinkPage() {
         {/* Final CTA Section */}
         <section className="mb-12 p-8 bg-[#d2a778]/10 rounded-xl border border-[#d2a778]/20 text-center">
           <h2 className="text-2xl font-bold text-[#d2a778] mb-6">Access the Big Mumbai Game Link Now — Play Instantly</h2>
-          <p className="text-gray-600 mb-6">You now have everything you need — the verified Big Mumbai game link, step-by-step access instructions, troubleshooting solutions, and safety confirmation. Click below to access the official Big Mumbai platform right now, complete your <Link href={REGISTER_LINK} className="text-[#d2a778] hover:underline">Big Mumbai registration</Link> with invitation code 54147218367, and claim your ₹500 welcome bonus in under 3 minutes.</p>
+          <p className="text-gray-600 mb-6">You now have everything you need — the verified Big Mumbai game link, step-by-step access instructions, troubleshooting solutions, and safety confirmation. Click below to access the official Big Mumbai platform right now, complete your <Link href={REGISTER_LINK} className="text-[#d2a778] hover:underline">Big Mumbai registration</Link> with invitation code 16454276749, and claim your ₹500 welcome bonus in under 3 minutes.</p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center flex-wrap mb-4">
             <Link href={REGISTER_LINK}>
               <Button className="bg-[#d2a778] text-black hover:bg-[#c49768] font-bold">
@@ -513,7 +513,7 @@ export default function BigMumbaiGameLinkPage() {
             name: 'How to Access the Big Mumbai Game Link',
             step: [
               { '@type': 'HowToStep', name: 'Open browser and navigate to official link', text: 'Open Chrome or any modern browser, type bigmumbaiwinn.com in the address bar, confirm HTTPS padlock is visible.' },
-              { '@type': 'HowToStep', name: 'Choose Login or Register', text: 'Click Register for new accounts or Login for existing players. Use invitation code 54147218367 for welcome bonus.' },
+              { '@type': 'HowToStep', name: 'Choose Login or Register', text: 'Click Register for new accounts or Login for existing players. Use invitation code 16454276749 for welcome bonus.' },
               { '@type': 'HowToStep', name: 'Bookmark or save the link', text: 'Add to home screen on mobile or bookmark on desktop for one-tap access to the official Big Mumbai game link.' },
               { '@type': 'HowToStep', name: 'Start playing', text: 'Access Big Mumbai Aviator, colour prediction, WinGo, lottery, and all games directly through the game link.' },
             ],

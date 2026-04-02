@@ -77,7 +77,7 @@ export default function Contact() {
                 <h2 className="text-xl font-bold text-gray-900 mb-3">Quick Links &amp; Resources</h2>
                 <p className="text-gray-600 mb-4">Before reaching out, you may find quick answers on these pages:</p>
                 <ul className="space-y-3 text-gray-600">
-                  <li><Link href={`${BASE_URL}/`} className="text-[#d2a778] font-medium hover:underline">Home – Big Mumbai APK Download</Link> — Get the latest APK and register with invitation code 54147218367.</li>
+                  <li><Link href={`${BASE_URL}/`} className="text-[#d2a778] font-medium hover:underline">Home – Big Mumbai APK Download</Link> — Get the latest APK and register with invitation code 16454276749.</li>
                   <li><Link href={`${BASE_URL}/about`} className="text-[#d2a778] font-medium hover:underline">About Big Mumbai</Link> — Learn about the platform and why we recommend it.</li>
                   <li><Link href={`${BASE_URL}/how-to-register-big-mumbai-app`} className="text-[#d2a778] font-medium hover:underline">How to Register on Big Mumbai App</Link> — Step-by-step registration guide.</li>
                   <li><Link href={`${BASE_URL}/help-center`} className="text-[#d2a778] font-medium hover:underline">Help Center</Link> — FAQs on download, installation, and registration.</li>

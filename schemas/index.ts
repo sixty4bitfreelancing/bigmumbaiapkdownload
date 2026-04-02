@@ -112,8 +112,8 @@ export function getRegisterFAQSchema() {
     '@context': 'https://schema.org',
     '@type': 'FAQPage',
     mainEntity: [
-      { '@type': 'Question', name: 'How do I register on Big Mumbai app?', acceptedAnswer: { '@type': 'Answer', text: 'Download the Big Mumbai APK from bigmumbaiapkdownload.com, open the app, tap Account → Register, fill in mobile number, password, and invitation code 54147218367, then tap Register. Done in under 3 minutes.' } },
-      { '@type': 'Question', name: 'What is the Big Mumbai invitation code for 2026?', acceptedAnswer: { '@type': 'Answer', text: 'The current working Big Mumbai invitation code is 54147218367. Enter during registration to unlock gift bonus ₹10–₹100 plus Big Mumbai 500 welcome offer.' } },
+      { '@type': 'Question', name: 'How do I register on Big Mumbai app?', acceptedAnswer: { '@type': 'Answer', text: 'Download the Big Mumbai APK from bigmumbaiapkdownload.com, open the app, tap Account → Register, fill in mobile number, password, and invitation code 16454276749, then tap Register. Done in under 3 minutes.' } },
+      { '@type': 'Question', name: 'What is the Big Mumbai invitation code for 2026?', acceptedAnswer: { '@type': 'Answer', text: 'The current working Big Mumbai invitation code is 16454276749. Enter during registration to unlock gift bonus ₹10–₹100 plus Big Mumbai 500 welcome offer.' } },
       { '@type': 'Question', name: 'Is Big Mumbai registration free?', acceptedAnswer: { '@type': 'Answer', text: 'Yes. Big Mumbai game register online is completely free. No deposit needed to create account or claim welcome bonus.' } },
       { '@type': 'Question', name: 'Can I register on Big Mumbai without downloading the APK?', acceptedAnswer: { '@type': 'Answer', text: 'Yes, via the official website on mobile browser. However, downloading the Big Mumbai login app gives the best experience.' } },
       { '@type': 'Question', name: 'How long does Big Mumbai registration take?', acceptedAnswer: { '@type': 'Answer', text: 'Under 3 minutes — mobile number, password, invitation code, and activation are all instant.' } },
@@ -182,7 +182,7 @@ export function getRegisterHowToSchema() {
       {
         '@type': 'HowToStep',
         name: 'Fill in Your Details Correctly',
-        text: 'Enter your Indian mobile number, create an 8–14 character password, confirm password, and enter invitation code 54147218367. This code unlocks your ₹10–₹100 gift bonus and Big Mumbai 500 welcome offer.',
+        text: 'Enter your Indian mobile number, create an 8–14 character password, confirm password, and enter invitation code 16454276749. This code unlocks your ₹10–₹100 gift bonus and Big Mumbai 500 welcome offer.',
         image: `${BASE}/how-to-register-big-mumbai-app.png`,
       },
       {
